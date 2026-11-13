@@ -1,0 +1,4 @@
+.venv/
+.idea/
+_pycache_/
+campus_lf.db
